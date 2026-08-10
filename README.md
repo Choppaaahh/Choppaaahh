@@ -18,6 +18,7 @@ Hi! I'm an independent builder-researcher. Reach me on:
 ## Research:
 
 - [Elevation vs. capability](https://github.com/Choppaaahh/choppa-research/blob/main/writeups/elevation-vs-capability-boundary-2026-08.md): where richer instructions substitute for a stronger model (+28pp, pre-registered) — and where they measurably don't. Both failures reported.
+- [decorr-eval](https://github.com/Choppaaahh/decorr-eval): runnable benchmark + leaderboard — do your "different" models actually think differently? Judge-free, one API key, ~$1 a run. Headline: you can't infer decorrelation from the lab logo; measure it.
 - [Decorrelation co-failure benchmark](https://github.com/Choppaaahh/choppa-research/blob/main/benchmarks/decorrelation-benchmark.md): how often different-lab LLMs all fail the *same* probe. Commit-reveal pre-registered.
 - [Pre-registered benchmark freezes](https://github.com/Choppaaahh/choppa-research/blob/main/preregistered_benchmark_freezes.md): hash first, results after — the discipline, in public.
 - [Weekly signal pre-registrations](https://github.com/Choppaaahh/choppa-research/blob/main/preregistered_signal_freezes.md): same commit-reveal discipline applied to research predictions.
