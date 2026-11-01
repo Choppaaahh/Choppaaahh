@@ -26,7 +26,7 @@ Hi! I'm an independent builder-researcher. Reach me on:
 
 ## GPUs and serving:
 
-- [gpu-bunk](https://github.com/Choppaaahh/gpu-bunk): many quiet models on fewer GPUs. An idle model sleeps in host RAM or on a neighbouring GPU and wakes when a request arrives. Open code and every measurement, negative results included.
+- [gpu-bunk](https://github.com/Choppaaahh/gpu-bunk): more AI models on the same GPUs. Busy models are placed by load, with one shared pool for their overflow and off-peak hours; quiet ones sleep in host RAM or on a neighbouring GPU and wake when a request arrives. Open code and every measurement, negative results included.
 
 ## Methodology:
 
