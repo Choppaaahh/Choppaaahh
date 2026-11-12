@@ -39,9 +39,3 @@ Hi! I'm an independent builder-researcher. Reach me on:
 
 - [Implementation scripts](https://github.com/Choppaaahh/choppa-research/tree/main/implementation): sanitized, customizable versions of the harness's working parts.
 - [sendgrid-mcp-secure](https://github.com/Choppaaahh/sendgrid-mcp-secure): a SendGrid MCP server with recipient allowlists, send caps, a review mode and an audit log.
-
-## Merged upstream:
-
-- DataHub: [#18341](https://github.com/datahub-project/datahub/pull/18341) incident tools for the MCP server, [#19357](https://github.com/datahub-project/datahub/pull/19357) schema-field incidents.
-- Microsoft Agent Framework: [#8011](https://github.com/microsoft/agent-framework/pull/8011) stamp the AG-UI checkpoint owner on every save.
-- agent-lsp: [#23](https://github.com/blackwell-systems/agent-lsp/pull/23) reject leading-dash git revisions in `detect_changes`.
